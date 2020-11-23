@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-getting-started-5073d"
+  },
+  "targets": {
+    "angular-getting-started-5073d": {
+      "hosting": {
+        "angular-getting-started": [
+          "angular-getting-started-5073d"
+        ]
+      }
+    }
+  }
+}
